@@ -1,0 +1,26 @@
+{
+  "name": "confusion",
+  "homepage": "(https://github.com/steele-ariel-wm/Bootstrap-Assignment-1)",
+  "authors": [
+    "ariel"
+  ],
+  "description": "website for a restaurant",
+  "main": "index3.html",
+  "keywords": [
+    "confusion",
+    "fusion",
+    "restaurant"
+  ],
+  "license": "(MIT)",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.6.3"
+  }
+}
